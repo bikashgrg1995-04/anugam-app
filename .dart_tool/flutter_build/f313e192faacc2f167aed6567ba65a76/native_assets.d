@@ -1,0 +1,1 @@
+ D:\\Projects\\Flutter\\anugam-app\\.dart_tool\\flutter_build\\f313e192faacc2f167aed6567ba65a76\\native_assets.yaml: 
